@@ -12,8 +12,6 @@ I'm an average student learning software engineering
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravabasya06&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravabasya06)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ravabasya06)  
 
 </div>
