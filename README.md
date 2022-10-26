@@ -2,8 +2,9 @@
 
 <p align="center">I'm an average student learning software engineering</p>
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ravabasya06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ravabasya06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ravabasya06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCB9VKtuomYbIWu0qEKQiLQQ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ravabasya06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ravabasya06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ravabasya06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCB9VKtuomYbIWu0qEKQiLQQ)  
   
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravabasya06)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravabasya06&show_icons=true)  
@@ -11,3 +12,4 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravabasya06)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ravabasya06)
+</div>
